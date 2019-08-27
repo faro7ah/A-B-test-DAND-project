@@ -33,5 +33,3 @@ we have one notebook file that includes all the work related to the previous que
 # Licensing, Authors, and Acknowledgements:
 [The data in this repository comes from the Data analyst Nanodegree program](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
-
-
